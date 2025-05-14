@@ -40,43 +40,37 @@
 
 ### 데이터
 
-https://www.bigdata-environment.kr/user/data_market/detail.do?id=f644daf0-314a-11ea-adf5-336b13359c97#
+[지반침하 위치도 - 환경 빅데이터 플랫폼](https://www.bigdata-environment.kr/user/data_market/detail.do?id=f644daf0-314a-11ea-adf5-336b13359c97#)
 
-https://www.data.go.kr/data/15041891/openapi.do
+[국토교통부 지하안전정보 - 공공데이터포털](https://www.data.go.kr/data/15041891/openapi.do)
 
-https://data.molit.go.kr/data-set/search/detail/11857315
+[지반침하 정보 현황 - 국토교통부 데이터 통합 채널](https://data.molit.go.kr/data-set/search/detail/11857315)
 
-https://data.seoul.go.kr/dataList/OA-1222/S/1/datasetView.do
+[서울시 건설 알림이 정보 - 서울 열린데이터 광장](https://data.seoul.go.kr/dataList/OA-1222/S/1/datasetView.do)
 
-https://data.seoul.go.kr/dataList/OA-1239/S/1/datasetView.do
+[서울시 도로굴착 공사 현황 - 서울 열린데이터 광장](https://data.seoul.go.kr/dataList/OA-1239/S/1/datasetView.do)
 
-https://data.seoul.go.kr/dataList/OA-21109/S/1/datasetView.do
+[서울시 공사현장 유출지하수 공간정보 - 서울 열린데이터 광장](https://data.seoul.go.kr/dataList/OA-21109/S/1/datasetView.do)
 
-https://data.seoul.go.kr/dataList/OA-15607/S/1/datasetView.do
+[서울시 건축물 유출지하수 현황](https://data.seoul.go.kr/dataList/OA-15607/S/1/datasetView.do)
 
-https://www.data.go.kr/data/15025448/standard.do#tab_layer_detail_function
+[전국지반침하정보표준데이터 - 공공데이터포털](https://www.data.go.kr/data/15025448/standard.do#tab_layer_detail_function)
 
-https://image.imnews.imbc.com/pdf/society/2025/04/20250408_1.pdf ← 서울 싱크홀 고위험지역 50곳 (정답데이터)
+[서울 싱크홀 고위험지역 50곳 - MBC](https://image.imnews.imbc.com/pdf/society/2025/04/20250408_1.pdf)
 
-https://asezwao.org/talk/%EC%9C%A0%EC%B6%9C-%EC%A7%80%ED%95%98%EC%88%98%EB%A5%BC-%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94/
+['유출 지하수'를 아시나요? - ASEZ WAO](https://asezwao.org/talk/%EC%9C%A0%EC%B6%9C-%EC%A7%80%ED%95%98%EC%88%98%EB%A5%BC-%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94/)
 
-https://news.seoul.go.kr/env/archives/513144
+[서울특별시 유출지하수 활용 가이드라인](https://news.seoul.go.kr/env/archives/513144)
 
-https://bigdata.seoul.go.kr/data/selectSampleData.do?sample_data_seq=162 (서울시 실폭하천 위치도)
+[서울시 실폭하천 위치도 - 서울특별시 빅데이터 캠퍼스](https://bigdata.seoul.go.kr/data/selectSampleData.do?sample_data_seq=162)
 
-https://www.ntoday.co.kr/news/articleView.html?idxno=110006
+[상수도 공사 뉴스1 - 투데이신문](https://www.ntoday.co.kr/news/articleView.html?idxno=110006)
 
-https://www.mcnews.co.kr/77965
+[상수도 공사 뉴스2 - 매일건설신문](https://www.mcnews.co.kr/77965)
 
-https://scpm.seoul.go.kr/now/water?clean=
+[상수도 실시간 도시 현황 - 스마트 서율뷰](https://scpm.seoul.go.kr/now/water?clean=)
 
-### 교수님 첨언
 
-최근 이슈임
-
-쉽지는 않을 것 같음
-
-큰 대도시 위주 데이터를 잘 모아서 해보셈
 
 # 프로젝트 계획
 
